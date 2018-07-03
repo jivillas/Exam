@@ -121,6 +121,7 @@ const styles = StyleSheet.create ({
 	},
 	textHead: {
 		left: '5%',
+		fontWeight: 'bold',
 		fontSize: hp('2.5%'),
 	},
 	textIn: {
